@@ -1,4 +1,6 @@
 // EXAMPLE FOR WEB TRAININGS
+//
+// GIT PUSH EXAMPLE
 
 var gulp = require('gulp')
   , $ = require('gulp-load-plugins')({
