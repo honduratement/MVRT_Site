@@ -3846,3 +3846,8 @@ div.hrspace {
   display: table-cell;
   white-space: nowrap;
 }
+
+/* Miscellaneous */
+span.first {
+	font-style:italic;
+}
